@@ -4,6 +4,9 @@ Multimodal AI agent workflow using n8n and OpenAI
 # whatsapp-ai-agent-n8n
 Multimodal AI agent workflow using n8n and OpenAI
 
+## Workflow Overview
+This n8n workflow handles WhatsApp messages (text, audio, and images), processes them using OpenAI via LangChain, and responds with either text or audio output.  
+All credentials and personal data have been removed.
 
 # 🤖 WhatsApp AI Assistant Workflow (n8n + OpenAI)
 
