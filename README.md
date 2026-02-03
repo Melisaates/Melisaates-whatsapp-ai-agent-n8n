@@ -1,5 +1,14 @@
-# Melisaates-whatsapp-ai-agent-n8n
 Multimodal AI agent workflow using n8n and OpenAI
+
+## 🎥 Demo Videos
+
+These videos demonstrate the n8n workflow structure and its real-time execution.
+
+- Workflow overview:  
+  [workflow-demo.mp4](demo/workflow-demo.mp4)
+
+- Result demo:  
+  [result-demo.mp4](demo/result-demo.mp4)
 
 # whatsapp-ai-agent-n8n
 Multimodal AI agent workflow using n8n and OpenAI
